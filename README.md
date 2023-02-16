@@ -6,23 +6,23 @@ ACADEMIC LEVEL:
 
 -Linked to your individual pages
 
--Initial idea / Concept of the Project ( aligned to research areas)
+-Initial idea / Concept of the Project ( aligned to research areas):
 
--Propose (What is supposed to do or not to do)
+-Propose (What is supposed to do or not to do):
 
--Shown how your team planned and executed the project
+-Shown how your team planned and executed the project:
 
--System diagram (illustration explaining function, parts, and relations)
+-System diagram (illustration explaining function, parts, and relations):
 
--Integrated Design (How you designed it - relation between elements)
+-Integrated Design (How you designed it - relation between elements):
 
--Honest Design (use of technology in a meaningful way) Relation to the topics
+-Honest Design (use of technology in a meaningful way) Relation to the topics:
 
--Be creative (find solutions with materials and technology you have)
+-Be creative (find solutions with materials and technology you have):
 
--Explore design boundaries (based on your expertice)
+-Explore design boundaries (based on your expertice):
 
--Listed future development opportunity for this project
+-Listed future development opportunity for this project:
 
 
 
