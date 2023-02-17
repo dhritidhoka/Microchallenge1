@@ -10,6 +10,7 @@ ACADEMIC LEVEL:
 
 -Propose (What is supposed to do or not to do):
 
+
 -Shown how your team planned and executed the project:
 
 -System diagram (illustration explaining function, parts, and relations):
