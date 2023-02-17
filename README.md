@@ -9,6 +9,8 @@ ACADEMIC LEVEL:
 
 -Initial idea / Concept of the Project ( aligned to research areas):
 
+Scycronizing Heart Rate Variable to the LED 
+
 
 
 -Propose (What is supposed to do or not to do):
