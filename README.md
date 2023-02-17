@@ -5,9 +5,11 @@ Heart Aura
 
 ACADEMIC LEVEL:
 
--Linked to your individual pages
+
 
 -Initial idea / Concept of the Project ( aligned to research areas):
+
+
 
 -Propose (What is supposed to do or not to do):
 
@@ -24,13 +26,14 @@ ACADEMIC LEVEL:
 
 -Explore design boundaries (based on your expertice):
 
--Listed future development opportunity for this project:
 
 
 
 REPLICABILITY:
 
--How did you fabricate it (fabrication processes and materials)
+-How did you fabricate it (fabrication processes and materials):
+
+
 
 -Design & Fabrication files (open source or open format)
 
