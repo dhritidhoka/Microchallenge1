@@ -1,7 +1,7 @@
 # Microchallenge1
 Heart Aura
 
-![](images/bio%20material.jpg.jpg)
+
 
 ACADEMIC LEVEL:
 
