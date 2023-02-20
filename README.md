@@ -20,12 +20,14 @@ Sketches and Design:
 
 To explore the idea , we started off with creating multiple sketches for possible design solutions: 
 
-image- sketches 
+![initial sketches](images/initial%20sketches.jpg)
 
 Ideas starting from creating an orb that would collect data from the participants via the ECG sensors and would illuminate the orb based on the aura color chart. 
 But after doing a bit more research, we came across an installation done by artist David Spriggs- the gravity series where the viewer engages with the installation as an experience, rather than simply as a collection of individual images.
- 
+
+![](images/ref.jpeg) 
 Reference image- Gravity series by David Spriggs.
+
 
 
 Taking inspiration from this artwork, we took the idea of having layers of painted transparencies to interact and overlap with one another, to create a sense of depth, form and movements while animating the original idea of creating an orb.
@@ -33,11 +35,11 @@ Taking inspiration from this artwork, we took the idea of having layers of paint
 The first design we tried was to achieve a depth effect using a circular pattern rastered in different intensities, but it didnt quite satisfy us with the imagination we had. 
 
 
-images- 2 -1st design
+![1st design prototype](images/1st%20proto.jpg)
 
 We then tried another method where we created images in increasing form but without boundaries and trying to achieve an embodying experience which encourages a deeper outlook of understanding your state through the illumination of the patterns.
 
-(The final design)
+![The final design](images/final%20des.jpg)
 
 ---
 
@@ -47,11 +49,11 @@ The design was to be rastered on clear acrylic sheets using the laser cut machin
 
 The base of these acrylic panels was also laser cut using thin cardboards as the material to act as a support for them.
 
-image-
+![](images/fabrication.jpg)
 
 To accommodate the arduino and the sensors, we needed an additional base, and for that, we used the knowledge gained in Remixing material seminar, to create a bio material base using pine resin and coffee ground.
 
-image- bio material
+![](images/bio%20material.jpg)
 
 ---
 
@@ -59,7 +61,7 @@ Electronics and Coding:
 
 This aspect of the project involved the integration of two separate systems. The first part involved connecting ECG sensors to the user and collecting data. Initial results were unexpectedly foggy and inconsistent. What was expected to be an easy task turned out to be much more complex. Although we were able to achieve some interesting results after certain tweaks and calibrations (fixing the sensors to account movement, thresholds in coding), the data was not reliable and the portrayed visualizations ended up being a simulation of the concept. Still, it was an interesting learning experience to understand how ECG sensors are made and the calculations towards achieving accurate HRV. The second part of the project involved the setup of 3 rows of 3 LEDs, and using a Neopixel to provide colorful variations to illustrate the Heart Aura. We then programmed the lights to display variations between blue, purple and white when having stable data, or red colors when displaying signs of distress. Again, since the data is not consistent this entire part of the project is more conceptual than anything. 
 
-image- electronics
+![](images/electronics.jpg)
 
 ---
 
@@ -67,4 +69,4 @@ Final Product:
 
 Bringing all the components together, we had our final object ready-
 
-image-
+![](images/final.jpg)
