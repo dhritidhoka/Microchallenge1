@@ -1,6 +1,6 @@
 # Microchallenge1
 
-###Heart Aura
+Heart Aura
 
 Idea/Concept and Purpose:
 
@@ -14,7 +14,7 @@ By collecting heart rate data from ECG sensors, calculating HRV of a user, and v
 
 ---
 
-###Design Process:
+Design Process:
 
 Sketches and Design:
 
@@ -41,7 +41,7 @@ We then tried another method where we created images in increasing form but with
 
 ---
 
-###Fabrication Process:
+Fabrication Process:
 
 The design was to be rastered on clear acrylic sheets using the laser cut machine. The first prototype of the final design was done on a smaller scale to check if we were able to achieve the desired look for the acrylic panels and then laser cutting on the larger size.
 
@@ -55,7 +55,7 @@ image- bio material
 
 ---
 
-###Electronics and Coding:
+Electronics and Coding:
 
 This aspect of the project involved the integration of two separate systems. The first part involved connecting ECG sensors to the user and collecting data. Initial results were unexpectedly foggy and inconsistent. What was expected to be an easy task turned out to be much more complex. Although we were able to achieve some interesting results after certain tweaks and calibrations (fixing the sensors to account movement, thresholds in coding), the data was not reliable and the portrayed visualizations ended up being a simulation of the concept. Still, it was an interesting learning experience to understand how ECG sensors are made and the calculations towards achieving accurate HRV. The second part of the project involved the setup of 3 rows of 3 LEDs, and using a Neopixel to provide colorful variations to illustrate the Heart Aura. We then programmed the lights to display variations between blue, purple and white when having stable data, or red colors when displaying signs of distress. Again, since the data is not consistent this entire part of the project is more conceptual than anything. 
 
@@ -63,7 +63,7 @@ image- electronics
 
 ---
 
-###Final Product:
+Final Product:
 
 Bringing all the components together, we had our final object ready-
 
