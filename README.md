@@ -70,3 +70,10 @@ Final Product:
 Bringing all the components together, we had our final object ready-
 
 ![](images/final.jpg)
+
+---
+
+our Individual page links:
+
+Antonio: https://antonioheinemann.github.io/MDEF/
+Dhriti: https://dhritidhoka.github.io/MDEF/
